@@ -1,0 +1,13 @@
+{
+  "name": "pdf-extract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "pdf.js-extract": "^0.1.4"
+  }
+}
